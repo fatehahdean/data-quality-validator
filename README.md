@@ -22,7 +22,7 @@ raw/ upload → EventBridge → clean-power-data → validate-power-data → PAS
 <img width="1441" height="694" alt="9-2-project-trigger" src="https://github.com/user-attachments/assets/8479b755-1126-48f4-9a2f-d23632d53c1b" />
 <img width="1447" height="698" alt="9-1-project-trigger" src="https://github.com/user-attachments/assets/5b89f657-3523-46a8-885c-3cc671372674" />
 
-![Validator report: FAIL](
+![Validator report: FAIL]
 <img width="292" height="160" alt="10-project3-reportt" src="https://github.com/user-attachments/assets/9f5c7f8f-f98d-45f7-8db4-a85a14d09435" />
 
 ![Validator test: FAIL]
